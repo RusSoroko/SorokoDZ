@@ -1,0 +1,15 @@
+D:\source\repos\SorokoDZ\HW3\Task2\bin\Debug\net6.0\Task2.exe
+D:\source\repos\SorokoDZ\HW3\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\source\repos\SorokoDZ\HW3\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\source\repos\SorokoDZ\HW3\Task2\bin\Debug\net6.0\Task2.dll
+D:\source\repos\SorokoDZ\HW3\Task2\bin\Debug\net6.0\Task2.pdb
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.dll
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.pdb
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\source\repos\SorokoDZ\HW3\Task2\obj\Debug\net6.0\ref\Task2.dll
