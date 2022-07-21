@@ -23,6 +23,7 @@
                 Console.WriteLine("Только одно из чисел А, В и С меньше 50");
             if (a < 0 || b < 0 || c < 0)
                 Console.WriteLine("Одно из чисел А, В, С отрицательное");
+            Console.WriteLine("Для коммита");
 
             Console.ReadKey();
 
